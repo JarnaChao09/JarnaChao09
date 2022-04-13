@@ -1,6 +1,6 @@
 ### README
 
-[![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=jarnachao09)](https://github.com/anuraghazra/github-readme-stats)
+[![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=jarnachao09&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarnachao09&hide=html&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
