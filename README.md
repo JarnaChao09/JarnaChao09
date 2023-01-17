@@ -1,6 +1,6 @@
 ### README
 
-[![My github stats](https://github-readme-stats-61qdveq2j-fanwangm.vercel.app/api?username=jarnachao09&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.zohan.tech/api?username=jarnachao09&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=jarnachao09&hide=html,cmake&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
