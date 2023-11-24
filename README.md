@@ -6,5 +6,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jarnachao09&theme=radical&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarnachao09&hide=html,cmake,jupyter notebook&theme=radical&layout=donut-vertical&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarnachao09&hide=html,cmake,jupyter_notebook&theme=radical&layout=donut-vertical&card_width=320" />
 </a>
