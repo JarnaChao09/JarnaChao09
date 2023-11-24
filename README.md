@@ -10,12 +10,12 @@
 </a>
 
 <a href="https://github.com/JarnaChao09/Koffect">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&repo=Koffect" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&card_width=320&repo=Koffect" />
 </a>
 <br/>
 <a href="https://github.com/JarnaChao09/Kotrix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&repo=Kotrix" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&card_width=320&repo=Kotrix" />
 </a>
 <a href="https://github.com/JarnaChao09/Regex.kt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&repo=Regex.kt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&card_width=320&repo=Regex.kt" />
 </a>
