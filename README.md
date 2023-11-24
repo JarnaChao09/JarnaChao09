@@ -9,15 +9,13 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarnachao09&hide=html,cmake,Jupyter%20Notebook,Tex&theme=radical&layout=compact" />
 </a>
 
-<!--
 <a href="https://github.com/JarnaChao09/Koffect">
-  <img width=460 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&repo=Koffect" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&repo=Koffect" />
 </a>
 <br/>
--->
 <a href="https://github.com/JarnaChao09/Kotrix">
-  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&card_width=320&repo=Kotrix&border_radius=0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&repo=Kotrix&border_radius=0" />
 </a>
 <a href="https://github.com/JarnaChao09/Regex.kt">
-  <img width=460 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&card_width=320&repo=Regex.kt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&repo=Regex.kt" />
 </a>
