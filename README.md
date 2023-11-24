@@ -4,4 +4,4 @@
 
 [![JarnaChao's Github Stats](https://github-readme-stats.vercel.app/api?username=jarnachao09&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarnachao09&hide=html,cmake&theme=radical&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarnachao09&hide=html,cmake,jyputer-notebook&theme=radical&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
