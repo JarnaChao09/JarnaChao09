@@ -6,7 +6,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jarnachao09&theme=radical&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=460 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarnachao09&hide=html,cmake,Jupyter%20Notebook,Tex&theme=radical&layout=compact&card_width=320" />
+  <img height=200 width=460 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarnachao09&hide=html,cmake,Jupyter%20Notebook,Tex&theme=radical&layout=compact&card_width=460" />
 </a>
 
 <a href="https://github.com/JarnaChao09/Koffect">
