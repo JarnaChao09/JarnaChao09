@@ -14,7 +14,7 @@
 </a>
 <br/>
 <a href="https://github.com/JarnaChao09/Kotrix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&card_width=320&repo=Kotrix" />
+  <img width=460 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&card_width=320&repo=Kotrix" />
 </a>
 <a href="https://github.com/JarnaChao09/Regex.kt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&card_width=320&repo=Regex.kt" />
