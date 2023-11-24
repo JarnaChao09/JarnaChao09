@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/JarnaChao09/Koffect">
-  <img width=829 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&repo=Koffect&border_radius=0" />
+  <img width=828 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&repo=Koffect&border_radius=0" />
 </a>
 <br/>
 <a href="https://github.com/JarnaChao09/Kotrix">
