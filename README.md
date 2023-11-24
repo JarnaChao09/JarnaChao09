@@ -12,7 +12,6 @@
 <a href="https://github.com/JarnaChao09/Koffect">
   <img width=412.5 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&repo=Koffect&border_radius=0" />
 </a>
-<br/>
 <a href="https://github.com/JarnaChao09/Kotrix">
   <img width=412.5 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&theme=radical&repo=Kotrix" />
 </a>
