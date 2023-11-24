@@ -16,5 +16,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&repo=Kotrix" />
 </a>
 <a href="https://github.com/JarnaChao09/Regex.kt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnacho09&repo=Regex.kt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarnachao09&repo=Regex.kt" />
 </a>
